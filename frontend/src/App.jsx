@@ -58,7 +58,7 @@ function App() {
         <span className="masthead__mark">LIQ-01</span>
         <h1 className="masthead__title">Liquidación de Sueldos</h1>
         <p className="masthead__subtitle">
-          Demo de CI/CD &mdash; FastAPI + React &middot; Render + Netlify
+          TP 8 resolción de Schoemberger Lisandro - Demo de CI/CD
         </p>
       </header>
 
